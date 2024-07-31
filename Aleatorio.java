@@ -7,7 +7,7 @@
 package utiles;
 /**
  *
- * @author nacho
+ * @author Angel.avellaneda
  */
 public class Aleatorio {
     public static double doubleAleatorio(int min, int max){
