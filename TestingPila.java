@@ -3,12 +3,6 @@ package tests.lineales;
 import lineales.dinamicas.Pila;
 //import lineales.estaticas.Pila;
 
-/**
- *
- * @author Catedra EDAT - FAI - UNCOMA 
- * Ultima modificación: 22/04/2021
- *
- */
 public class TestingPila {
 
     static String sOk = "OK!", sErr = "ERROR";

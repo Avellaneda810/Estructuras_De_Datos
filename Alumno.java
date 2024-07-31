@@ -7,7 +7,7 @@ package estructura_de_datos;
 
 /**
  *
- * @author Angel
+ * @author Angel.Avellaneda
  */
 public class Alumno {
     //Atributos

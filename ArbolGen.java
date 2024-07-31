@@ -3,9 +3,7 @@ package jerarquicas.dinamicas;
 import lineales.dinamicas.Cola;
 import lineales.dinamicas.Lista;
 /************* Autors ***********
-- Kevin Manuel Quintero Martinez, Legajo FAI-2771
-- Benjamín Morales, Legajo FAI-3370
-- Angel Gabriel Avellaneda, Legajo FAI-3242
+- Angel Gabriel Avellaneda
 */
 public class ArbolGen {
     

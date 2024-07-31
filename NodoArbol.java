@@ -7,7 +7,7 @@ package jerarquicas.dinamicas;
 
 /**
  *
- * @author Angel
+ * @author Angel.Avellaneda
  */
 class NodoArbol {
     private Object elem;

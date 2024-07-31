@@ -2,7 +2,7 @@ package grafo;
 /*
  * 
  * 
- * @author angel.avelaneda 
+ * @author Angel.Avelaneda 
  * 
  */
 import java.util.HashMap;

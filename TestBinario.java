@@ -7,10 +7,7 @@ package tests.jerarquicas;
 
 import jerarquicas.dinamicas.ArbolBin;
 
-/**
- *
- * @author Agus
- */
+
 public class TestBinario {
 
     static String sOk = "\u001B[32m OK! \u001B[0m";

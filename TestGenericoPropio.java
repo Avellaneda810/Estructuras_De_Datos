@@ -4,9 +4,7 @@ import jerarquicas.dinamicas.ArbolGen;
 import lineales.dinamicas.Lista;
 
 /************* Autores ***********
-- Kevin Manuel Quintero Martinez, Legajo FAI-2771
-- Benjamín Morales, Legajo FAI-3370
-- Angel Gabriel Avellaneda, Legajo FAI-3242
+- Angel Gabriel Avellaneda
 */
 public class TestGenericoPropio {
 

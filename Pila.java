@@ -1,8 +1,6 @@
 package lineales.dinamicas;
 /************* Autores **********
-- Kevin Manuel Quintero Martinez, Legajo FAI-2771
-- Benjamín Morales, Legajo FAI-3370
-- Angel Gabriel Avellaneda, Legajo FAI-3342
+- Angel Gabriel Avellaneda
 */
 public class Pila {
     private Nodo tope;

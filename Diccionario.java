@@ -6,7 +6,7 @@ import mudanzas.Solicitud;
 /*
  * 
  * 
- * @author angel.avelaneda 
+ * @author Angel.Avelaneda 
  * 
  */
 public class Diccionario {

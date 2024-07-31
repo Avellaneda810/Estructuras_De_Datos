@@ -7,7 +7,7 @@ import lineales.dinamicas.Pila;
 
 /**
  *
- * @author Angel
+ * @author Angel.Avellaneda
  */
 public class ArbolBin {
     

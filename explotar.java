@@ -1,7 +1,7 @@
 package estructura_de_datos;
 /**
  *
- * @author Angel
+ * @author Angel.Avellaneda
  */
 import java.util.Scanner;
 public class explotar {

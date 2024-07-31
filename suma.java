@@ -1,5 +1,8 @@
 package estructura_de_datos;
 import java.util.Scanner;
+/************* Autores **********
+- Angel Gabriel Avellaneda
+*/
 public class suma {
 
     /**

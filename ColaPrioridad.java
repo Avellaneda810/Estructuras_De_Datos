@@ -2,7 +2,7 @@ package lineales.dinamicas;
 /*
  * 
  * 
- * @author angel.avelaneda 
+ * @author Angel.Avelaneda 
  * 
  */
 public class ColaPrioridad {

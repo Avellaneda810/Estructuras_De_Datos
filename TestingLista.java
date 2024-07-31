@@ -2,11 +2,6 @@ package tests.lineales;
 
 import lineales.dinamicas.Lista;
 
-/**
- * 
- * @author Catedra EDAT - FAI - UNCOMA
- * Ultima modificacion: 22/04/2021
- */
 
 public class TestingLista {
 

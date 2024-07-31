@@ -2,7 +2,7 @@ package conjuntistas;
 /*
  * 
  * 
- * @author angel.avelaneda 
+ * @author Angel.Avelaneda 
  * 
  */
 public class NodoHash {
